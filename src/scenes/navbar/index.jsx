@@ -1,4 +1,4 @@
-const navbar = () => {
+const Navbar = () => {
     return <div>  home page </div>
 }
-export default homePagenavbar
+export default Navbar
